@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+.env
+
+.dockerignore
+db.sqlite3
+.python-version
